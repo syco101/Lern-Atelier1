@@ -1,16 +1,18 @@
 # Grob-Planung
 
-✍️ **David**
+ **David**
 
-✍️ **22.09.2023**
+**22.09.2023**
 
 ## Leit-Satz
 
-✍️ Mein Ziel ist ein spiel zu programmieren weil ich noch nie ein Spiel programmiert habe sondern zb nur einen Taschenrechner.
+ Mein Ziel ist ein spiel zu programmieren weil ich noch nie ein Spiel programmiert habe sondern zb nur einen Taschenrechner.
 
 ## Arbeitspakete für dd.mm.yyyy
 
-✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
+ Wenn ich nichts zu tun habe arbeite ich bei den Modulen weiter
+   C++ oder HTML üben
+   Mich mehr mit dem programmieren befassen
 
 - [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
 
