@@ -11,12 +11,12 @@
 ## Arbeitspakete für dd.mm.yyyy
 
  Wenn ich nichts zu tun habe arbeite ich bei den Modulen weiter
-   C++ oder C# üben
+   Java oder C# üben
    Mich mehr mit dem programmieren befassen
 
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [x] c# üben
+- [x] Module arbeiten
+- [ ] Java üben
 
 
