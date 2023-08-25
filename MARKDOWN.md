@@ -11,17 +11,12 @@
 ## Arbeitspakete für dd.mm.yyyy
 
  Wenn ich nichts zu tun habe arbeite ich bei den Modulen weiter
-   C++ oder HTML üben
+   C++ oder C# üben
    Mich mehr mit dem programmieren befassen
 
-- [ ] Ein Programm, welches den Benutzer nach seinem Namen fragt, und diesen wieder ausgibt.
-
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
 
 - [ ] ...
 - [ ] ...
 - [ ] ...
 
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
+
