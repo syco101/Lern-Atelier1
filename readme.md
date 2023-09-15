@@ -23,7 +23,8 @@
 
 ## Arbeitspakete für 15.9.23
 
-- [ ] c# üben, Tschenrechner fertig
-- [ ] Module arbeiten
+- [x] c# üben, Tschenrechner fertig
+- [x] Module arbeiten
 - [ ] Spiel beginnen
 
+Heute habe ich endlich mit meinem Taschenrechner abgeschlossen und ich finde ich habe ihn sehr gut programmiert. Er hat jetzt alle guten Funktionen der ein normaler Taschenrecher besitzen muss. Durch den Taschenrechner verstehe ich C# auch besser, vorallem einige Befehle. Heute habe ich auch mehr Module gelöst. Nächstes mal will ich umbedingt mit meinem Spiel beginnen.
