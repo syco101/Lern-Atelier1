@@ -28,3 +28,10 @@
 - [ ] Spiel beginnen
 
 Heute habe ich endlich mit meinem Taschenrechner abgeschlossen und ich finde ich habe ihn sehr gut programmiert. Er hat jetzt alle guten Funktionen der ein normaler Taschenrecher besitzen muss. Durch den Taschenrechner verstehe ich C# auch besser, vorallem einige Befehle. Heute habe ich auch mehr Module gelöst. Nächstes mal will ich umbedingt mit meinem Spiel beginnen.
+
+
+## Arbeitspakete für 22.9.23
+
+ [ ]  Spiel beginnen
+- [ ] Module arbeiten
+- [ ] C# üben
