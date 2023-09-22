@@ -32,6 +32,12 @@ Heute habe ich endlich mit meinem Taschenrechner abgeschlossen und ich finde ich
 
 ## Arbeitspakete für 22.9.23
 
- [ ]  Spiel beginnen
-- [ ] Module arbeiten
-- [ ] C# üben
+  [ ]  Spiel beginnen
+- [x] Module arbeiten
+- [x] C# üben
+
+Heute habe ich nachgeschaut wie snake funktionieren würde mit C# aber ich bin noch nicht weit gekommen. Wir muessten dann als Gruppe noch ein Powerpoint Video drehen was wir dann gut beendet haben.
+
+Reflexion
+
+Die Lernperiode ging irgendwie sehr schnell vorbei. Ich wollte in dieser Zeitspanne ein Spiel programmieren aber irgendwie bin ich nicht soweit gekommen. Ich habe mich am anfang sehr mit C# befasst und weiter an den Modulen gearbeitet. ich habe immernoch nicht aufgehört zu üben, jetzt weiss ich viel mehr und ich habe schon programmiert und für 5 Wochen fande ich das gut. Ich habe aber immernoch Luft nach oben, die Zeit die ich hatte hätte ich viel besser nutzen können. Für die nächste Lernperiode werden ich versuchen mehr zu machen und die Zeit besser zu nutzen. Ich kann das schaffen wenn ich mich weniger ablenke lasse und wenn ich Probleme habe das ich nicht dierekt aufgebe und Lösungenen dafür suche.
