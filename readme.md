@@ -32,7 +32,7 @@ Heute habe ich endlich mit meinem Taschenrechner abgeschlossen und ich finde ich
 
 ## Arbeitspakete für 22.9.23
 
-  [ ]  Spiel beginnen
+- [ ]  Spiel beginnen
 - [x] Module arbeiten
 - [x] C# üben
 
